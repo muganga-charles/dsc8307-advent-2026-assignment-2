@@ -33,4 +33,3 @@ Wholesale customers data: Abreu, N. (2011). Análise do perfil do cliente Rechei
 Credit card fraud data: Dal Pozzolo, A., Caelen, O., Johnson, R. A. and Bontempi, G. (2015). Calibrating probability with undersampling for unbalanced classification. IEEE Symposium Series on Computational Intelligence. Released by the Machine Learning Group of the Université Libre de Bruxelles and Worldline.
 
 Full references for the methods used are listed at the end of each notebook.
-# dsc8307-advent-2026-assignment-2
